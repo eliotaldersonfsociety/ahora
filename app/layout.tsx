@@ -24,8 +24,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Colombia Importadora",
-  description: "Ecommerce de productos al mayor y detal en Colombia. Electrónica, moda, hogar, tecnología, mascotas y más.",
+  title: "Tienda Texas",
+  description: "Ecommerce de productos al mayor y detal en EEUU. Electrónica, moda, hogar, tecnología, mascotas y más.",
   icons: {
     icon: "/favicon.ico", // ícono del navegador
     shortcut: "/favicon.ico", // para Safari y navegadores que lo usan
