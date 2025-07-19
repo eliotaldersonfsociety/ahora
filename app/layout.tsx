@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     siteName: "Tienda Texas",
     images: [
       {
-        url: "/og-image.jpg", // usa una imagen atractiva en /public
+        url: "/baner7.webp", // usa una imagen atractiva en /public
         width: 1200,
         height: 630,
         alt: "Tienda Texas - Ecommerce EEUU",
