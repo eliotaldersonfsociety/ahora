@@ -32,8 +32,8 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png", // si quieres soporte Apple
   },
   keywords: [
-    "Colombia Importadora",
-    "ecommerce Colombia",
+    "Tienda Texas",
+    "ecommerce EEUU",
     "compras online",
     "productos al mayor",
     "tecnología",
@@ -43,16 +43,16 @@ export const metadata: Metadata = {
     "tienda virtual"
   ],
   openGraph: {
-    title: "Colombia Importadora",
-    description: "Compra productos al mejor precio. Envíos a toda Colombia.",
-    url: "https://colombiaimportadora.com", // reemplaza con tu dominio real
-    siteName: "Colombia Importadora",
+    title: "Tienda Texas",
+    description: "Compra productos al mejor precio. Envíos a todo EEUU.",
+    url: "https://tiendatexas.com", // reemplaza con tu dominio real
+    siteName: "Tienda Texas",
     images: [
       {
         url: "/og-image.jpg", // usa una imagen atractiva en /public
         width: 1200,
         height: 630,
-        alt: "Colombia Importadora - Ecommerce colombiano",
+        alt: "Tienda Texas - Ecommerce EEUU",
       },
     ],
     locale: "es_CO",
@@ -60,8 +60,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Colombia Importadora",
-    description: "Ecommerce colombiano de calidad.",
+    title: "Tienda Texas",
+    description: "Ecommerce EEUU de calidad.",
     images: ["/og-image.jpg"],
   },
 };
